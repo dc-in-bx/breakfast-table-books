@@ -1,1 +1,2 @@
-# Breakfast Table Books
+# Food for the eyes...
+On my little breakfast table, nestled between a sleepy vinyl cutter and cosy book nook, are five books.
