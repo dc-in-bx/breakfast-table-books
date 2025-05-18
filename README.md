@@ -1,5 +1,5 @@
 <h1>Food for the eyes...</h1>
-<i>I am learning how to use GitHub.</i>
+<i>I am learning to use GitHub.</i>
 <h2>Welcome</h2>
 <p>On my little breakfast table, nestled between a cosy book nook and a sleepy vinyl cutter, are <strong>five books</strong>.</p>
 <img width="100%" src="https://raw.githubusercontent.com/dc-in-bx/breakfast-table-books/refs/heads/main/images/breakfast-table.jpg" alt="My breakfast table">
